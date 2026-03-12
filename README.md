@@ -1,4 +1,4 @@
-# Basic Network SnifferInternship - Task 1
+# Basic Network Sniffer Internship - Task 1
 
 ## Description
 A Python-based network packet sniffer built using Scapy.
